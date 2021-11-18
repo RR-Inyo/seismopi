@@ -12,4 +12,4 @@ See photo below. A motion sensor, Invensense MPU6050, and an OLED display is con
 
 ## Record example
 Below is a record of real earthquake which happend at 3:08 am on November 8, 2021 in Japan. The calculated JMA seismic intensity was 2.8.
-![Real earthquake record](Real-eathquake.png)
+![Real earthquake record](real-earthquake.png)
