@@ -15,3 +15,8 @@ See photo below. A motion sensor, Invensense MPU6050, and an OLED display is con
 Below is a record of real earthquake which happend at 3:08 am on November 8, 2021 in Japan. The calculated JMA seismic intensity was 2.8.
 
 <img src="real-earthquake.png" />
+
+## Shindo calculation
+The Japan Meteorological Agency's instrumental seisminc intensity, *shindo*, is calculated by shindo.py, which is in this repositoty as well as in the following.
+
+https://github.com/RR-Inyo/shindo
